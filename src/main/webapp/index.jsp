@@ -1,5 +1,5 @@
 <html>
     <body>
-        <h2>Hello World! I am excited to code with you</h2>
+        <h2>Hello World! I am excited to code with your org</h2>
     </body>
 </html>
