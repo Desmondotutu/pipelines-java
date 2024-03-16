@@ -6,11 +6,7 @@
 trigger:
 - main
 
-pool:
-  name: Azure Pipelines  # Name of the agent pool
-
-  demands:
-    - Agent.Version -gtVersion 2.163.1  # Require agent version greater than 2.163.1
+pool: myagentpool
 
 steps:
 - task: Maven@3
